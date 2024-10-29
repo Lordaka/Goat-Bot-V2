@@ -34,17 +34,17 @@ module.exports = {
 			noAdmin: "Hiện tại bot chưa có admin nào"
 		},
 		en: {
-			missingMessage: "Please enter the message you want to send to admin",
+			missingMessage:"🔖| 𝑟𝑒́𝑝𝑜𝑛𝑑 𝑎𝑢 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑝𝑜𝑢𝑟 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑒 𝑙𝑎 𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑎𝑡𝑖𝑙𝑛 𝑎𝑣𝑒𝑐 𝑙'𝑎𝑑𝑚𝑖𝑛.",
 			sendByGroup: "\n- Sent from group: %1\n- Thread ID: %2",
 			sendByUser: "\n- Sent from user",
-			content: "\n\nContent:\n─────────────────\n%1\n─────────────────\nReply this message to send message to user",
-			success: "Sent your message to %1 admin successfully!\n%2",
-			failed: "An error occurred while sending your message to %1 admin\n%2\nCheck console for more details",
-			reply: "📍 Reply from admin %1:\n─────────────────\n%2\n─────────────────\nReply this message to continue send message to admin",
-			replySuccess: "Sent your reply to admin successfully!",
-			feedback: "📝 Feedback from user %1:\n- User ID: %2%3\n\nContent:\n─────────────────\n%4\n─────────────────\nReply this message to send message to user",
-			replyUserSuccess: "Sent your reply to user successfully!",
-			noAdmin: "Bot has no admin at the moment"
+			content: "\n\nContent:\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n%1\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n📜| 𝑟𝑒́𝑝𝑜𝑛𝑑 𝑎𝑢 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑝𝑜𝑢𝑟 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑒 𝑎̀ 𝑑𝑖𝑠𝑐𝑢𝑡𝑒 𝑎𝑣𝑒𝑐 𝑙'𝑢𝑡𝑖𝑙𝑖𝑠𝑎𝑡𝑒𝑢𝑟",
+			success: "🏂| 𝐥𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐞𝐬𝐭 𝐩𝐚𝐫𝐯𝐞𝐧𝐮 𝐚̀ %1 𝐦𝐨𝐧 𝐚𝐝𝐦𝐢𝐧 𝐚𝐯𝐞𝐜 𝐬𝐮𝐜𝐜𝐞̀𝐬!\n%2",
+			failed: " 𝐮𝐧𝐞 𝐞𝐫𝐫𝐞𝐮𝐫 𝐬𝐞 𝐩𝐫𝐨𝐝𝐮𝐢𝐭𝐞 𝐥'𝐡𝐨𝐫𝐬 𝐝𝐞 𝐥'𝐞𝐧𝐯𝐨𝐢𝐞 𝐝𝐞 𝐯𝐨𝐭𝐫𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬 %1 𝐦𝐨𝐧 𝐚𝐝𝐦𝐢𝐧\n%2\n 𝐯𝐞́𝐫𝐢𝐟𝐢𝐞𝐫𝐚 𝐯𝐨̂𝐭𝐫𝐞 𝐜𝐨𝐧𝐬𝐨𝐥𝐞 𝐩𝐨𝐮𝐫 𝐯𝐨𝐮𝐬 𝐫𝐞́𝐩𝐨𝐧𝐝𝐫𝐞 ",
+			reply: "🍁| 𝐫𝐞́𝐩𝐨𝐧𝐬𝐞 𝐝𝐞 𝐥'𝐚𝐝𝐦𝐢𝐧 %1:\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n%2\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n 📓| 𝑟𝑒́𝑝𝑜𝑛𝑑 𝑎𝑢 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑝𝑜𝑢𝑟 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑒 𝑙𝑎 𝑐𝑜𝑛𝑣𝑒𝑛𝑡𝑖𝑜𝑛 𝑎𝑣𝑒𝑐 𝑙'𝑎𝑑𝑚𝑖𝑛",
+			replySuccess: "💌| 𝐥𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐚 𝐞́𝐭𝐞́ 𝐞𝐧𝐯𝐨𝐲𝐞́ 𝐚𝐯𝐞𝐜 𝐬𝐮𝐜𝐜𝐞̀𝐬 !",
+			feedback: "📜|𝐥𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐝'𝐮𝐭𝐢𝐥𝐢𝐬𝐚𝐭𝐞𝐮𝐫 %1:\n- User ID: %2%3\n\nContent:\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n%4\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n🏌️| 𝐫𝐞́𝐩𝐨𝐧𝐝 𝐚𝐮 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐩𝐨𝐮𝐫 𝐫𝐞́𝐩𝐨𝐧𝐝𝐫𝐞 𝐚̀ 𝐥'𝐮𝐭𝐢𝐥𝐢𝐬𝐚𝐭𝐞𝐮𝐫",
+			replyUserSuccess: " 🏂|  𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐞𝐧𝐯𝐨𝐲𝐞́ 𝐚𝐯𝐞𝐜 𝐬𝐮𝐜𝐜𝐞̀𝐬 𝐚̀ 𝐥'𝐮𝐭𝐢𝐥𝐢𝐬𝐚𝐭𝐞𝐮𝐫 ",
+			noAdmin: "𝐁𝐨𝐭 𝐡𝐚𝐬 𝐧𝐨 𝐚𝐝𝐦𝐢𝐧 𝐚𝐭 𝐭𝐡𝐞 𝐦𝐨𝐦𝐞𝐧𝐭"
 		}
 	},
 
