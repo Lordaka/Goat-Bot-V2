@@ -43,7 +43,7 @@ module.exports = {
 
 	langs: {
 		vi: {
-			help: " |I{•------» ✰...𝙍𝙊𝙉𝘼𝙇𝘿....✰ «------•}I| \n%1\n |I{•------» ✰...𝙍𝙊𝙉𝘼𝙇𝘿....✰ «------•}I| \n│ Trang [ %2/%3 ]\n│ Hiện tại bot có %4 lệnh có thể sử dụng\n│ » Gõ %5help <số trang> để xem danh sách các lệnh\n│ » Gõ %5help để xem chi tiết cách sử dụng lệnh đó\n |I{•------» ✰...𝙍𝙊𝙉𝘼𝙇𝘿....✰ «------•}I| \n│ %6\n |I{•------» ✰...𝙍𝙊𝙉𝘼𝙇𝘿....✰ «------•}I| ",
+			help: " |I{•------» ✰...𝐈𝐍𝐂𝐎𝐍𝐍𝐔....✰ «------•}I| \n%1\n |I{•------» ✰...𝐈𝐍𝐂𝐎𝐍𝐍𝐔....✰ «------•}I| \n│ Trang [ %2/%3 ]\n│ Hiện tại bot có %4 lệnh có thể sử dụng\n│ » Gõ %5help <số trang> để xem danh sách các lệnh\n│ » Gõ %5help để xem chi tiết cách sử dụng lệnh đó\n |I{•------» ✰...𝐈𝐍𝐂𝐎𝐍𝐍𝐔....✰ «------•}I| \n│ %6\n |I{•------» ✰...𝐈𝐍𝐂𝐎𝐍𝐍𝐔....✰ «------•}I| ",
 			help2: "%1├───────⭔\n➬❦....... » Hiện tại bot có %2 lệnh có thể sử dụng\n│ » Gõ %3help <tên lệnh> để xem chi tiết cách sử dụng lệnh đó\n│ %4\n╰─────────────⭓",
 			commandNotFound: "Lệnh \"%1\" không tồn tại",
 			getInfoCommand: "╭── NAME ────⭓\n│ %1\n❏❖❏❖❏❖ - ❖❏❖❏❖❏ INFO\n│ Mô tả: %2\n│ Các tên gọi khác: %3\n│ Các tên gọi khác trong nhóm bạn: %4\n│ Version: %5\n│ Role: %6\n│ Thời gian mỗi lần dùng lệnh: %7s\n│ Author: %8\n❏❖❏❖❏❖ - ❖❏❖❏❖❏ Usage\n│%9\n❏❖❏❖❏❖ - ❖❏❖❏❖❏ Notes\n│ Nội dung bên trong <XXXXX> là có thể thay đổi\n│ Nội dung bên trong [a|b|c] là a hoặc b hoặc c\n╰──────⭔",
@@ -60,9 +60,9 @@ module.exports = {
 			pageNotFound: "Trang %1 không tồn tại"
 		},
 		en: {
-			help: "╔═══════════╗\n│   𝗥𝗢𝗡𝗔𝗟𝗗 𝗖𝗠𝗗𝗦\n╚═══════════╝\n%1\n╔═══════════╗\n│   𝗥𝗢𝗡𝗔𝗟𝗗 𝗖𝗠𝗗𝗦\n╚═══════════╝\n➳ Page(s) [ %2/%3 ]\n➪[%4] Cmds \n➪Écrit %5help <page> pour voir d'autres cmds 👨🏽‍💻\n╰────────✪",
-			help2: "%1╭─────────────❥\n│➪J'ai [%2] Cmds │actuellement \n│➪Écrit %3help <command │name> pour voir le   │fonctionnement de la │commande \n╰─────────────❥",
-			commandNotFound: "Command \"%1\" does not exist",
+			help: "╔═══════════╗\n│   𝐈𝐍𝐂𝐎𝐍𝐍𝐔 𝐂𝐌𝐃𝐒\n╚═══════════╝\n%1\n╔═══════════╗\n│   𝐈𝐍𝐂𝐎𝐍𝐍𝐔 𝐂𝐌𝐃𝐒\n╚═══════════╝\n➳ 𝐏𝐚𝐠𝐞(𝐬) [ %2/%3 ]\n➪[%4] 𝐂𝐦𝐝𝐬 \n➪𝐭𝐚𝐩𝐞 %5𝐡𝐞𝐥𝐩 <𝐩𝐚𝐠𝐞> 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 d'𝐚𝐮𝐭𝐫𝐞𝐬 𝐜𝐦𝐝𝐬 📜\n╰────────✪",
+			help2: "%1╭─────────────❥\n│➪𝐥𝐞 𝐜𝐥𝐚𝐧 𝐝𝐢𝐬𝐩𝐨𝐬𝐞 𝐝𝐞 [%2] 𝐂𝐦𝐝𝐬  \n│➪𝐭𝐚𝐩𝐞 %3𝐡𝐞𝐥𝐩 <𝐜𝐨𝐦𝐦𝐚𝐧𝐝 │𝐧𝐚𝐦𝐞> 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐥𝐞   │𝐟𝐨𝐧𝐜𝐭𝐢𝐨𝐧𝐧𝐞𝐦𝐞𝐧𝐭 𝐝𝐞 𝐥𝐚 │𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 \n╰─────────────❥",
+			commandNotFound: "𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐞 \"%1\" 𝐧'𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬",
 			getInfoCommand: "╭── NAME ────💙\n│ %1\n├──────────────\n 𝗜𝗡𝗙𝗢\n│ 𝗱𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n│═══════════════\n 𝗨𝗦𝗔𝗚𝗘\n%9\n│═══════════════\n 𝗡𝗢𝗧𝗘\n│ The content inside <XXXXX> can be changed\n│ The content inside [a|b|c] is a or b or c\n╰──────⭔",
 			onlyInfo: "╭── INFO ────❥\n│ Command name: %1\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n╰─────────────✦",
 			onlyUsage: "╭── USAGE ────❥\n│%1\n╰─────────────❥",
