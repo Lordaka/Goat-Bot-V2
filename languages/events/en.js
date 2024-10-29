@@ -3,38 +3,38 @@ module.exports = {
 	autoUpdateThreadInfo: {},
 	checkwarn: {
 		text: {
-			warn: "Member %1 has been warned 3 times before and has been banned from the chat box\n- Name: %1\n- Uid: %2\n- To unban, please use the \"%3warn unban <uid>\" command (with uid is the uid of the person you want to unban)",
-			needPermission: "Bot needs administrator permission to kick banned members"
+			warn: "Member %1 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐰𝐚𝐫𝐧𝐞𝐝 3 𝐭𝐢𝐦𝐞𝐬 𝐛𝐞𝐟𝐨𝐫𝐞 𝐚𝐧𝐝 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐛𝐚𝐧𝐧𝐞𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐜𝐡𝐚𝐭 𝐛𝐨𝐱\n- 𝐍𝐚𝐦𝐞: %1\n- 𝐔𝐢𝐝: %2\n- 𝐓𝐨 𝐮𝐧𝐛𝐚𝐧, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐮𝐬𝐞 𝐭𝐡𝐞 \"%3𝐰𝐚𝐫𝐧 𝐮𝐧𝐛𝐚𝐧 <𝐮𝐢𝐝>\" 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 (𝐰𝐢𝐭𝐡 𝐮𝐢𝐝 𝐢𝐬 𝐭𝐡𝐞 𝐮𝐢𝐝 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐞𝐫𝐬𝐨𝐧 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐮𝐧𝐛𝐚𝐧)",
+			needPermission: "🔖 𝐦𝐞𝐭 𝐥𝐞 𝐛𝐨𝐭  𝐚𝐮𝐱 𝐚𝐝𝐦𝐢𝐧𝐬 𝐩𝐨𝐮𝐫 𝐛𝐚𝐧𝐧𝐢𝐫 𝐮𝐧 𝐦𝐞𝐦𝐛𝐫𝐞 𝐝𝐮 𝐜𝐥𝐚𝐧  "
 		}
 	},
 	leave: {
 		text: {
-			session1: "morning",
-			session2: "noon",
-			session3: "afternoon",
-			session4: "evening",
-			leaveType1: "left the group",
-			leaveType2: "was kicked from the group"
+			session1: "𝐛𝐨𝐧𝐧𝐞 𝐣𝐨𝐮𝐫𝐧𝐞́𝐞",
+			session2: "𝐧𝐨𝐨𝐧",
+			session3: "𝐛𝐨𝐧𝐧𝐞 𝐚𝐩𝐫𝐞̀𝐬 𝐦𝐢𝐝𝐢 ",
+			session4: "𝐛𝐨𝐧𝐧𝐞 𝐬𝐨𝐢𝐫𝐞́𝐞",
+			leaveType1: "🎉| 𝐮𝐧 𝐜𝐨𝐧 𝐚 𝐪𝐮𝐢𝐭𝐭𝐞 𝐥𝐞 𝐠𝐫𝐨𝐮𝐩𝐞 🔖",
+			leaveType2: "💁| 𝐦𝐨𝐧 𝐦𝐚𝐢𝐭𝐫𝐞 𝐭'𝐚𝐬 𝐬𝐮𝐩𝐩𝐫𝐢𝐦𝐞́ 𝐝𝐮 𝐠𝐫𝐨𝐮𝐩𝐞 🎉 "
 		}
 	},
 	logsbot: {
 		text: {
-			title: "====== Bot logs ======",
-			added: "\n✅\nEvent: bot has been added to a new group\n- Added by: %1",
-			kicked: "\n❌\nEvent: bot has been kicked\n- Kicked by: %1",
-			footer: "\n- User ID: %1\n- Group: %2\n- Group ID: %3\n- Time: %4"
+			title: "====== 𝐁𝐨𝐭 𝐥𝐨𝐠𝐬 ======",
+			added: "\n✅\n𝐄𝐯𝐞𝐧𝐭: 𝐥𝐞 𝐛𝐨𝐭 𝐚 𝐞́𝐭𝐞́ 𝐚𝐣𝐨𝐮𝐭𝐞 𝐝𝐚𝐧𝐬 𝐮𝐧 𝐧𝐨𝐮𝐯𝐞𝐚𝐮 𝐜𝐥𝐚𝐧 \n- 𝐚𝐣𝐨𝐮𝐭𝐞 𝐩𝐚𝐫 🔖: %1",
+			kicked: "\n❌\n𝐄𝐯𝐞𝐧𝐭: 𝐥𝐞 𝐛𝐨𝐭 𝐚 𝐞́𝐭𝐞́ 𝐬𝐮𝐩𝐩𝐫𝐢𝐦𝐞́ 𝐝𝐮 𝐜𝐥𝐚𝐧 \n- 𝐬𝐮𝐩𝐩𝐫𝐢𝐦𝐞́ 𝐩𝐚𝐫 🔖: %1",
+			footer: "\n- 𝐔𝐬𝐞𝐫 𝐈𝐃: %1\n- 𝐥𝐞 𝐧𝐚𝐦𝐞 𝐝𝐮 𝐜𝐥𝐚𝐧 🔖: %2\n- 𝐥𝐞 𝐜𝐨𝐝𝐞 𝐝𝐮 𝐜𝐥𝐚𝐧 🔖: %3\n- 𝐥𝐞 𝐭𝐞𝐦𝐩𝐬: %4"
 		}
 	},
 	onEvent: {},
 	welcome: {
 		text: {
-			session1: "morning",
-			session2: "noon",
-			session3: "afternoon",
-			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
-			multiple1: "you",
-			multiple2: "you guys"
+			session1: "𝐛𝐨𝐧𝐧𝐞 𝐛𝐨𝐧𝐣𝐨𝐮𝐫",
+			session2: "𝐧𝐨𝐨𝐧",
+			session3: "𝐛𝐨𝐧𝐧𝐞 𝐚𝐩𝐫𝐞̀𝐬 𝐦𝐢𝐝𝐢 ",
+			session4: "𝐛𝐨𝐧𝐧𝐞 𝐬𝐨𝐢𝐫𝐞́𝐞",
+			welcomeMessenge:" 🔖 𝐦𝐞𝐫𝐜𝐢 𝐩𝐨𝐮𝐫 𝐥'𝐢𝐧𝐯𝐢𝐭 𝐝𝐚𝐧𝐬 𝐯𝐨𝐭𝐫𝐞 𝐜𝐥𝐚𝐧 !\n𝐦𝐨𝐧 𝐩𝐫𝐞𝐟𝐢𝐱 𝐞𝐬𝐭 : 🔖%1🔖\n🔖 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐦𝐞𝐬 𝐜𝐦𝐝𝐬 , 𝐬𝐭𝐩 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐞 : 🔖%1🔖𝐡𝐞𝐥𝐩",
+			multiple1: "𝐲𝐨",
+			multiple2: "𝐲𝐨 𝐦𝐞𝐜, 𝐦𝐞𝐮𝐟 "
 		}
 	}
 };
