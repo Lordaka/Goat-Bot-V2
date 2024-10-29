@@ -34,7 +34,7 @@ module.exports = {
 			noAdmin: "Hiện tại bot chưa có admin nào"
 		},
 		en: {
-			missingMessage:"🔖| 𝑟𝑒́𝑝𝑜𝑛𝑑 𝑎𝑢 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑝𝑜𝑢𝑟 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑒 𝑙𝑎 𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑎𝑡𝑖𝑙𝑛 𝑎𝑣𝑒𝑐 𝑙'𝑎𝑑𝑚𝑖𝑛.",
+			missingMessage:"🔖| 𝐬𝐭𝐩 𝐞́𝐜𝐫𝐢𝐭 𝐭𝐨𝐧 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐝𝐞𝐬𝐭𝐢𝐧𝐞́ 𝐚̀ 𝐥'𝐚𝐝𝐦𝐢𝐧.",
 			sendByGroup: "\n- Sent from group: %1\n- Thread ID: %2",
 			sendByUser: "\n- Sent from user",
 			content: "\n\nContent:\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n%1\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n📜| 𝑟𝑒́𝑝𝑜𝑛𝑑 𝑎𝑢 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑝𝑜𝑢𝑟 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑒 𝑎̀ 𝑑𝑖𝑠𝑐𝑢𝑡𝑒 𝑎𝑣𝑒𝑐 𝑙'𝑢𝑡𝑖𝑙𝑖𝑠𝑎𝑡𝑒𝑢𝑟",
