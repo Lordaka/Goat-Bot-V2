@@ -23,9 +23,9 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			leaveType1: "𝗾𝘂𝗶𝘁𝘁𝗲",
-			leaveType2: "🥳 𝗺𝗼𝗻 𝗯𝗼𝘀𝘀 𝗮̀ 𝗯𝘂𝘁𝗲́ 𝘂𝗻 𝗰𝗼𝗻  ",
-			defaultLeaveMessage: "{userName} {type} 𝗱𝘂 𝗴𝗿𝗼𝘂𝗽𝗲"
+			leaveType1: "𝐮𝐧 𝐜𝐨𝐧 𝐚̀ 𝐪𝐮𝐢𝐭𝐭𝐞",
+			leaveType2: "𝐥'𝐚𝐝𝐦𝐢𝐧 𝐚̀ 𝐯𝐢𝐫𝐞́     𝐮𝐧 𝐜𝐨𝐧 𝐝𝐚𝐧𝐬 𝐬𝐨𝐧 𝐠𝐫𝐨𝐮𝐩𝐞 📿  ",
+			defaultLeaveMessage: "{userName} {type} 𝐥𝐞 𝐠𝐫𝐨𝐮𝐩𝐞 🛡️"
 		}
 	},
 
