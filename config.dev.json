@@ -1,6 +1,6 @@
 {
 	"facebookAccount": {
-		"email": "",
+		"email": "blazenova378@gmail.com",
 		"password": "",
 		"2FASecret": "",
 		"i_user": "",
@@ -12,14 +12,14 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "Goatbot",
-	"prefix": "-",
+	"nickNameBot": "🟡.『𝗕𝗟𝗔𝗭𝗘 𝗡𝗢𝗩𝗔』.⚪",
+	"prefix": "¥",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-       "100084606198768"
+       "100080355760429"
 ],
 
 	"whiteListMode": {
