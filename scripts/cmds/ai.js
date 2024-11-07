@@ -72,7 +72,7 @@ module.exports = {
             const input = messageContent.replace(/^ai\s*/, "").trim();
             const { response, messageID } = await getAIResponse(input, event.senderID, message.messageID);
             // Construct message with special fonts
-            const formattedResponse = ` 🟡.『𝗕𝗟𝗔𝗭𝗘 𝗡𝗢𝗩𝗔』.⚪ :\n━━━━━━━━━━━━━━━━\n${response} 🟡`;
+            const formattedResponse = ` 🟡『𝗕𝗟𝗔𝗭𝗘 𝗡𝗢𝗩𝗔』⚪ :\n━━━━━━━━━━━━━━━━\n${response} 🟡`;
             message.reply(formattedResponse, messageID);
         }
     }
