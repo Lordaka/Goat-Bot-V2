@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "blazenova378@gmail.com",
-		"password": "sakuragc",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,14 +12,15 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "🟡.『𝗕𝗟𝗔𝗭𝗘 𝗡𝗢𝗩𝗔』.⚪",
+	"nickNameBot": "🟡.『𝗛𝗘𝗡𝗧𝗔𝗜 𝗡𝗢𝗩𝗔』.⚪",
 	"prefix": "¥",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-       "100080355760429"
+       "100080355760429",
+		"100090405019929"
 ],
 
 	"whiteListMode": {
